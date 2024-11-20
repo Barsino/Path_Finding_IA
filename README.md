@@ -11,3 +11,5 @@ Uso de heurísticas para optimizar la selección de nodos y hallar el camino má
 ## BFS
 Enfoque no informado que utiliza una cola para explorar nodos equitativamente.
 Implementación específica para entornos estáticos.
+
+Enlace a memoria: https://docs.google.com/document/d/1jLETf-57UZeoyy9wMx5CXjF3BRqeZNdl8dI82mCHOaY/edit?usp=sharing
