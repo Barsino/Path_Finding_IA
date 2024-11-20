@@ -12,4 +12,4 @@ Uso de heurísticas para optimizar la selección de nodos y hallar el camino má
 Enfoque no informado que utiliza una cola para explorar nodos equitativamente.
 Implementación específica para entornos estáticos.
 
-Enlace a memoria: docs/Memoria PathFinding.pdf
+Enlace a memoria: https://github.com/Barsino/Path_Finding_IA/blob/main/docs/Memoria%20PathFinding.pdf
